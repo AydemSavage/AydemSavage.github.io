@@ -57,7 +57,7 @@ Due to Githubs integration of Jekyll, you are able to easily style your webiste 
 Andrew Etter explains how static websites are fast, simply and secure. When what we are hosting is not very complicated, such as a resume in this case, static sites allow us to quickly create a great looking page that is easy to read and very easy to maintain. Since we are using Markdown for our resume, we can easily make changes to our resume and the next time we load our website, the website automatically rebuilds and displays the most recent version of our resume.
 
 ## Step 4 - Check your website
-We're almost done. We should now check to see it our website is up and looks how we want it to. All you need to do is type **_Username_.github.io** into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
+congratulations! You're all done. You can now check to see it your website is up and looks how you want it to. All you need to do is type `**_Username_.github.io**` into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
 
 ### More Resources
 
@@ -68,7 +68,7 @@ We're almost done. We should now check to see it our website is up and looks how
 
 ## Authors and Acknowledgments
 
-Me hehe
+Adam Azarov
 
 # FAQs
 
@@ -77,5 +77,5 @@ Better because we are able to easily update our resume without having to convert
 
 | # | Question | Answer |
 |---|---|---|
-| 1 | Why is Markdown better than a word processor? | Better because we are able to easily update our resume without having to convert the work file to HTML or PDF and then uppload that. We can easily update our website |
+| 1 | Why is Markdown better than a word processor? | Markdown is better than a word processor because you are able to easily update your resume/website without having to convert the file (into XML or a PDF) and then upload it. You can easily update the Markdown file by editting it on your Github page |
 | 2 | Why is my resume not showing up? | Check this thing over there... |
