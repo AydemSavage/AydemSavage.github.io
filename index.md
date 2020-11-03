@@ -10,12 +10,12 @@
 
 #### Louis Riel Arts and Technology Centre (2016-2017)
 * Information Systems Certificate
-
+---
 ## Skills
 
 #### Languages
 * Java, C, C++ HTML + CSS, JavaScript
-
+---
 ## Projects
 
 #### Project Defence (Comp 3350)
