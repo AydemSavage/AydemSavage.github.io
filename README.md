@@ -75,9 +75,6 @@ Adam Azarov
 
 # FAQs
 
-Why is Markdown better than a word processor?
-Better because we are able to easily update our resume without having to convert the work file to HTML or PDF and then upload that. We can easily update our website
-
 1. Why is Markdown better than a word processor?
 > Markdown is better than a word processor because you are able to easily update your resume/website without having to convert the file (into XML or a PDF) and then upload it. You can easily update the Markdown file by editing it on your Github page
 
