@@ -1,7 +1,7 @@
 # Adam Azarov
 
-
 ### Education
+
 #### University of Manitoba (2017 - present)
 * Bachelor of Science Honours - Computer Science
 * Minor - Astronomy and Astrophysics
@@ -9,16 +9,13 @@
 #### Louis Riel Arts and Technology Centre (2016-2017)
 * Information Systems Certificate
 
-
 ### Skills
 
-Languages
+#### Languages
 * Java, C, C++ HTML + CSS, JavaScript
 
-### Experience
-
-
 ### Projects
+
 #### Project Defence (Comp 3350)
 Created an Android app that allows users to keep track of their finances
 
