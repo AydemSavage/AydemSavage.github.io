@@ -1,4 +1,3 @@
-![Accessing Github hosted website](accessing_website.gif)
 
 # How to host a resume on Github pages
 
@@ -62,7 +61,9 @@ Andrew Etter explains how static websites are fast, simply and secure. When what
 
 Congratulations! You're all done. You can now check to see it your website is up and looks the way you want it to. All you need to do is type **`username.github.io`**, where `username` would be your account name, into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
 
-### More Resources
+> Gif showing how to access website
+
+## More Resources
 
 1. [Markdown tutorial](https://www.markdowntutorial.com/)
 2. [Creating a Github account](https://github.com/join)
