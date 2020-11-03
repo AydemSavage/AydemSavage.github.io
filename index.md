@@ -1,7 +1,7 @@
 # Adam Azarov
 
-Email: azarova@myumanitoba.ca
-Github: https://github.com/AydemSavage
+###### Email: azarova@myumanitoba.ca
+###### Github: https://github.com/AydemSavage
 
 ### Education
 
