@@ -57,7 +57,7 @@ Due to Githubs integration of Jekyll, you are able to easily style your website 
 Andrew Etter explains how static websites are fast, simply and secure. When what we are hosting is not very complicated, such as a resume in this case, static sites allow us to quickly create a great looking page that is easy to read and very easy to maintain. Since we are using Markdown for our resume, we can easily make changes to our resume and the next time we load our website, the website automatically rebuilds and displays the most recent version of our resume.
 
 ## Step 4 - Check your website
-Congratulations! You're all done. You can now check to see it your website is up and looks the way you want it to. All you need to do is type username.github.io, where `username` would be your account name, into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
+Congratulations! You're all done. You can now check to see it your website is up and looks the way you want it to. All you need to do is type **`username.github.io`**, where `username` would be your account name, into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
 
 ### More Resources
 
