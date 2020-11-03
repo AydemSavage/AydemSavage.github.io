@@ -17,10 +17,10 @@ If you do not already have both of these things, you can check out the [More Res
 There are several ways of creating a new repository. One option is doing it from the main page, the other is being on your account page and selecting the `Repositories` header. From there you will:
 
 1. Click the green **`New`** button on the top of the page.
-2. Name the repository **`username.github.io`** where `username` would be your account name.
+2. Name the repository **username.github.io** where **username** would be your account name.
 3. (optional) Add a description that briefly summarizes what this repository is about.
-4. Check **`Public`**.
-5. Check **`Add a README`**.
+4. Check **Public**.
+5. Check **Add a README**.
 6. Click **`Create repository`**.
 
 Andrew Etter strongly advocates for the use of distributed version control systems (DVCS) such as Github as opposed to centralized systems. This is because DVCS allow us to:
@@ -35,7 +35,7 @@ Andrew Etter strongly advocates for the use of distributed version control syste
 Once you are in your repository, you can now add your Markdown formatted resume.
 
 1. Click the **`Add file`** dropdown and select **`Create new file`**.
-2. Name the file **`index.md`**.
+2. Name the file **index.md**.
 3. Copy and paste your Markdown formatted resume into the space provided.
 4. Click the green **`Commit new file`** button at the bottom of the page.
 
@@ -47,8 +47,8 @@ Word is good for making resumes that you will print but awful for anything that 
 
 Jekyll is one of the most popular static website generators at the moment. And we will use it to create a beautiful looking website with just a few clicks.
 
-1. From your resume repository, Select the **`Settings`** tab on the top of the page.
-2. Scroll down until you see the **`GitHub Pages`** section.
+1. From your resume repository, Select the **Settings** tab on the top of the page.
+2. Scroll down until you see the **GitHub Pages** section.
 3. Click **`Change Theme`**.
 4. Select one of the themes that you like best by clicking its thumbnail at the top of the page
 5. Click **`Select theme`** to apply it to our Github page
@@ -59,9 +59,10 @@ Andrew Etter explains how static websites are fast, simply and secure. When what
 
 ## Step 4 - Check your website
 
-Congratulations! You're all done. You can now check to see it your website is up and looks the way you want it to. All you need to do is type **`username.github.io`**, where `username` would be your account name, into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
+Congratulations! You're all done. You can now check to see it your website is up and looks the way you want it to. All you need to do is type **username.github.io**, where **username** would be your account name, into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
 
-> Gif showing how to access website
+> Animation showing how to access the static website you have just created
+![Gif showing how to access our static website](assets/accessing_website.gif)
 
 ## More Resources
 
