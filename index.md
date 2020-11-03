@@ -1,5 +1,8 @@
 # Adam Azarov
 
+Email: azarova@myumanitoba.ca
+Github: https://github.com/AydemSavage
+
 ### Education
 
 #### University of Manitoba (2017 - present)
