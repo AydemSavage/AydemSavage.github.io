@@ -2,7 +2,7 @@
 
 **Email**: [azarova@myumanitoba.ca](mailto:azarova@myumanitoba.ca) | **Github**: [AydemSavage](https://github.com/AydemSavage)
 
-### Education
+## Education
 
 #### University of Manitoba (2017 - present)
 * Bachelor of Science Honours - Computer Science
@@ -11,12 +11,12 @@
 #### Louis Riel Arts and Technology Centre (2016-2017)
 * Information Systems Certificate
 
-### Skills
+## Skills
 
 #### Languages
 * Java, C, C++ HTML + CSS, JavaScript
 
-### Projects
+## Projects
 
 #### Project Defence (Comp 3350)
 Created an Android app that allows users to keep track of their finances
