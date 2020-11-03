@@ -14,7 +14,7 @@
 ## Skills
 
 #### Languages
-* Java, C, C++ HTML + CSS, JavaScript
+* Java, C, C++, HTML + CSS, JavaScript
 ---
 ## Projects
 
