@@ -9,8 +9,8 @@ This README will explain how to host your resume on Github and style it using Ma
 * Creating the website
   * [Create a repository](#step-1---create-a-repository)
   * [Adding your resume](#step-2---adding-your-resume)
-  * [Format using Jekyll](#step-3---format-website-using-jekyll)
-  * [Check your website](#step-4---check-your-website)
+  * [Formatting using Jekyll](#step-3---format-website-using-jekyll)
+  * [Checking your website](#step-4---check-your-website)
 * [More Resources](#more-resources)
 * [Authors and Acknowledgments](authors-and-acknowledgments)
 * [FAQs](#faqs)
