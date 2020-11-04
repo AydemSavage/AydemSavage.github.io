@@ -92,7 +92,7 @@ Thank you Andrew Etter for information about technical writing
 # FAQs
 
 1. Why is Markdown better than a word processor?
-> Markdown is better than a word processor because you are able to easily update your resume/website without having to convert the file (into XML or a PDF) and then upload it. You can easily update the Markdown file by editing it on your Github page
+> Markdown is better than a word processor because you are able to easily update your resume/website without having to convert the file (into XML or a PDF) and then upload it. You can easily update the Markdown file directly from your Github page.
 
 2. Why is my resume not showing up?
 > There could a few things wrong. Please check the following:
@@ -100,4 +100,4 @@ Thank you Andrew Etter for information about technical writing
 > 2. Check to see that you have named your resume `index.md`.
 > 3. Check that you named your repository `username.github.io` where `username` is your account name.
 > 4. Check to see that you're searching for the correct address. You must search `https://username.github.io` where `username` is your account name.
-> 5. Make sure you are connected to the internet
+> 5. Make sure you are connected to the internet.
