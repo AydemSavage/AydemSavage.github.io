@@ -3,6 +3,18 @@
 
 This README will explain how to host your resume on Github and style it using Markdown and Jekyll. I will relate these steps to key concepts found in Andrew Etter's book _Modern Technical Writing_. I will explain how some of the steps we take here can be applied to make your technical writing better. So in the end, you will hopefully learn both concepts in modern technical writing and how to apply them.
 
+## Summary
+
+* [Prerequisites](#prerequisites)
+* Creating the website
+  * [Create a repository](#step-1---create-a-repository)
+  * [Adding your resume](#step-2---adding-your-resume)
+  * [Format using Jekyll](#step-3---format-website-using-jekyll)
+  * [Check your website](#step-4---check-your-website)
+* [More Resources](#more-resources)
+* [Authors and Acknowledgments](authors-and-acknowledgments)
+* [FAQs](#faqs)
+
 ## Prerequisites
 
 In the hopes of keeping this tutorial from being too long-winded, I require you to come with 2 things:
