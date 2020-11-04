@@ -14,7 +14,7 @@ If you do not already have both of these things, you can check out the [More Res
 
 ## Step 1 - Create a repository
 
-There are several ways of creating a new repository. One option is doing it from the main page, the other is being on your account page and selecting the `Repositories` header. From there you will:
+There are several ways of creating a new repository. One option is doing it from the main page, the other is being on your account page and selecting the **Repositories** header. From there you will:
 
 1. Click the green **New** button on the top of the page.
 2. Name the repository `username.github.io` where `username` would be your account name.
@@ -73,7 +73,7 @@ Congratulations! You're all done. You can now check to see it your website is up
 
 ## Authors and Acknowledgments
 
-Adam Azarov
+Adam Azarov  
 
 # FAQs
 
@@ -84,5 +84,5 @@ Adam Azarov
 > There could a few things wrong. Please check the following:
 > 1. Check if your repository is Public.
 > 2. Check to see that you have named your resume `index.md`.
-> 3. Check that you named your repository **username.github.io** where **username** is your account name.
-> 4. Check to see that you're searching for the correct address, you need to search for **username.github.io**
+> 3. Check that you named your repository `username.github.io` where `username` is your account name.
+> 4. Check to see that you're searching for the correct address, you need to search for `username.github.io`
