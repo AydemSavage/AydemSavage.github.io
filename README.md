@@ -78,10 +78,10 @@ Congratulations! You're all done. You can now check to see it your website is up
 
 ## More Resources
 
-1. [Markdown tutorial](https://www.markdowntutorial.com/)
-2. [Creating a Github account](https://github.com/join)
-3. [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter
-4. [Jekyll tutorial](https://www.youtube.com/watch?v=T1itpPvFWHI)
+* [Markdown tutorial](https://www.markdowntutorial.com/)
+* [Creating a Github account](https://github.com/join)
+* [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter
+* [Jekyll tutorial](https://www.youtube.com/watch?v=T1itpPvFWHI)
 
 ## Authors and Acknowledgments
 
@@ -93,10 +93,10 @@ Congratulations! You're all done. You can now check to see it your website is up
 
 # FAQs
 
-1. Why is Markdown better than a word processor?
+* Why is Markdown better than a word processor?
 > Markdown is better than a word processor because you are able to easily update your resume/website without having to convert the file (into XML or a PDF) and then upload it. You can easily update the Markdown file directly from your Github page.
 
-2. Why is my resume not showing up?
+* Why is my resume not showing up?
 > There could be a few things wrong. Please check the following:
 > 1. Check that your repository is **Public**.
 > 2. Check to see that you have named your resume `index.md`.
