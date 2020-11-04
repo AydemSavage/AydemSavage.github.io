@@ -73,7 +73,9 @@ Congratulations! You're all done. You can now check to see it your website is up
 
 ## Authors and Acknowledgments
 
-Adam Azarov  
+Author: Adam Azarov  
+Thank you to Christina Penner for this assignment  
+Thank you Andrew Etter for information about technical writing  
 
 # FAQs
 
@@ -82,7 +84,8 @@ Adam Azarov
 
 2. Why is my resume not showing up?
 > There could a few things wrong. Please check the following:
-> 1. Check if your repository is Public.
+> 1. Check that your repository is **Public**.
 > 2. Check to see that you have named your resume `index.md`.
 > 3. Check that you named your repository `username.github.io` where `username` is your account name.
-> 4. Check to see that you're searching for the correct address, you need to search for `username.github.io`
+> 4. Check to see that you're searching for the correct address, you need to search for `https://username.github.io`
+> 5. Make sure you are connected to the internet
