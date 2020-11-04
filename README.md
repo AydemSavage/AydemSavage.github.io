@@ -85,7 +85,6 @@ Congratulations! You're all done. You can now check to see it your website is up
 
 ## Authors and Acknowledgments
 
-* Author: Adam Azarov  
 * Thank you to Christina Penner for this assignment  
 * Thank you to Andrew Etter for the information about technical writing  
 * Thank you to Justin Band, Tommy Wu, and Mostafa Kamal for their help in peer reviewing this README  
@@ -93,10 +92,10 @@ Congratulations! You're all done. You can now check to see it your website is up
 
 # FAQs
 
-* Why is Markdown better than a word processor?
+1. Why is Markdown better than a word processor?
 > Markdown is better than a word processor because you are able to easily update your resume/website without having to convert the file (into XML or a PDF) and then upload it. You can easily update the Markdown file directly from your Github page.
 
-* Why is my resume not showing up?
+2. Why is my resume not showing up?
 > There could be a few things wrong. Please check the following:
 > 1. Check that your repository is **Public**.
 > 2. Check to see that you have named your resume `index.md`.
