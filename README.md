@@ -1,7 +1,7 @@
 
 # How to host a resume on Github pages
 
-This README will explain how to host your resume on Github and style it using Markdown and Jekyll. I will relate these steps to key concepts found in Andrew Etter's book _Modern Technical Writing_. I will explain how some of the steps we take here can be applied to make your technical writing better. So in the end, you will hopefully learn both concepts in modern technical writing and how to apply them.
+This README will explain how to host your resume on Github and style it using Markdown and Jekyll. I will relate these steps to key concepts found in Andrew Etter's book _Modern Technical Writing_. I will explain how some of the steps we take here can be applied to make your technical writing better. The intended audience is a computer science student unfamiliar with Github or Markdown so this README will (hopefully) be easy to follow for a wide range of people. With that being said, in the end, my hope is that you will learn both the concepts of modern technical writing and how to apply them. Let's get started!
 
 ## Summary
 
