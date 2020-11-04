@@ -59,7 +59,7 @@ Andrew Etter explains how static websites are fast, simply and secure. When what
 
 ## Step 4 - Check your website
 
-Congratulations! You're all done. You can now check to see it your website is up and looks the way you want it to. All you need to do is type `username.github.io`, where `username` would be your account name, into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll.
+Congratulations! You're all done. You can now check to see it your website is up and looks the way you want it to. All you need to do is type `username.github.io`, where `username` would be your account name, into your web browser. Now you should be looking at your resume formatted using Markdown and Jekyll. The animation below shows you how to access your website
 
 > Animation showing how to access the static website you have just created
 ![Gif showing how to access our static website](assets/accessing_website.gif)
