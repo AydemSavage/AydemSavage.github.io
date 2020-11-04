@@ -85,9 +85,11 @@ Congratulations! You're all done. You can now check to see it your website is up
 
 ## Authors and Acknowledgments
 
-Author: Adam Azarov  
-Thank you to Christina Penner for this assignment  
-Thank you Andrew Etter for information about technical writing  
+* Author: Adam Azarov  
+* Thank you to Christina Penner for this assignment  
+* Thank you to Andrew Etter for the information about technical writing  
+* Thank you to Justin Band, Tommy Wu, and Mostafa Kamal for their help in peer reviewing this README  
+* This README uses the [minimal theme](https://github.com/pages-themes/minimal)
 
 # FAQs
 
