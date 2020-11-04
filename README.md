@@ -95,7 +95,7 @@ Thank you Andrew Etter for information about technical writing
 > Markdown is better than a word processor because you are able to easily update your resume/website without having to convert the file (into XML or a PDF) and then upload it. You can easily update the Markdown file directly from your Github page.
 
 2. Why is my resume not showing up?
-> There could a few things wrong. Please check the following:
+> There could be a few things wrong. Please check the following:
 > 1. Check that your repository is **Public**.
 > 2. Check to see that you have named your resume `index.md`.
 > 3. Check that you named your repository `username.github.io` where `username` is your account name.
