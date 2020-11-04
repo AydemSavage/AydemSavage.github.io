@@ -57,7 +57,7 @@ Word is good for making resumes that you will print but awful for anything that 
 
 ## Step 3 - Format website using Jekyll
 
-Jekyll is one of the most popular static website generators at the moment. And we will use it to create a beautiful looking website with just a few clicks.
+Jekyll is one of the most popular static website generators at the moment. And you will use it to create a beautiful looking website with just a few clicks.
 
 1. From your resume repository, Select the **Settings** tab on the top of the page.
 2. Scroll down until you see the **GitHub Pages** section.
@@ -67,7 +67,7 @@ Jekyll is one of the most popular static website generators at the moment. And w
 
 Due to Githubs integration of Jekyll, you are able to easily style your website without too much hassle. Jekyll also offers much more power and customizability than is mentioned here. A link to resources will be provided in the [More Resources](#More-Resources) section if you are interested in customizing your website further.
 
-Andrew Etter explains how static websites are fast, simply and secure. When what we are hosting is not very complicated, such as a resume in this case, static sites allow us to quickly create a great looking page that is easy to read and very easy to maintain. Since we are using Markdown for our resume, we can easily make changes to our resume and the next time we load our website, the website automatically rebuilds and displays the most recent version of our resume.
+Andrew Etter explains how static websites are fast, simply and secure. When what you are hosting is not very complicated, such as a resume in this case, static sites allow you to quickly create a great looking page that is easy to read and very easy to maintain. Since you are also using Markdown for your resume, you can easily make changes to your resume and the next time the website is accessed, it automatically rebuilds and displays the most recent version of your resume.
 
 ## Step 4 - Check your website
 
