@@ -99,5 +99,5 @@ Thank you Andrew Etter for information about technical writing
 > 1. Check that your repository is **Public**.
 > 2. Check to see that you have named your resume `index.md`.
 > 3. Check that you named your repository `username.github.io` where `username` is your account name.
-> 4. Check to see that you're searching for the correct address, you need to search for `https://username.github.io`
+> 4. Check to see that you're searching for the correct address. You must search `https://username.github.io` where `username` is your account name.
 > 5. Make sure you are connected to the internet
